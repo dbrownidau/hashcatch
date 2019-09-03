@@ -7,7 +7,7 @@ Written by [@SivaneshAshok](https://twitter.com/sivaneshashok)
 [![hashcatch PoC](https://asciinema.org/a/AQEzLSxo7teoxPzNSJfwn4UNQ.svg)](https://asciinema.org/a/AQEzLSxo7teoxPzNSJfwn4UNQ)
 
 #### Do this first
-1. ```sudo apt install git build-essential libcurl4-openssl-dev libpcap0.8-dev zlib1g-dev libssl-dev```
+1. ```sudo apt install git aircrack-ng jq build-essential libcurl4-openssl-dev libpcap0.8-dev zlib1g-dev libssl-dev```
 2. ```sudo git clone https://github.com/ZerBea/hcxdumptool.git```
 3. ```sudo git clone https://github.com/ZerBea/hcxtools.git```
 4. ```sudo git clone https://github.com/hashcat/hashcat.git```
