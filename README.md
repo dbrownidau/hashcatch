@@ -12,7 +12,7 @@ Written by [@SivaneshAshok](https://twitter.com/sivaneshashok)
 3. ```sudo git clone https://github.com/ZerBea/hcxtools.git```
 4. ```sudo git clone https://github.com/hashcat/hashcat.git```
 5. build, make, make install each of the above
-6. profit
+6. profit - handshakes dumped to /usr/share/hashcatch
 
 #### Install from source
 1. ```git clone https://github.com/staz0t/hashcatch```
